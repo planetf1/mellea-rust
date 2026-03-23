@@ -1,0 +1,11 @@
+[package]
+name = "mellea-macros"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Proc macros for mellea (future: #[generative] attribute)"
+
+[lib]
+proc-macro = true
+
+[dependencies]
