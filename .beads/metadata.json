@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "mellea_rust",
+  "project_id": "aff2af68-713b-42be-80fb-1100dc42f699"
+}
