@@ -195,6 +195,11 @@ All dependencies are well-established, actively maintained crates:
 | `tracing` | Observability | Standard Rust instrumentation |
 | `async-trait` | Async trait support | Widely used for dyn-safe async |
 
+## Documentation
+
+- [SPEC.md](SPEC.md) — Architecture, competitive analysis, design decisions
+- [RETROSPECTIVE.md](RETROSPECTIVE.md) — POC process review, open questions, and next steps
+
 ## License
 
 Apache-2.0 — same as mellea-python.
